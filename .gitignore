@@ -18,6 +18,9 @@ build/
 # Comment out if you want to version control .harden/ directory
 .harden/
 
+# Evaluation results (local testing data)
+evaluation-results/
+
 # Logs
 logs/
 *.log
