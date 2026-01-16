@@ -1,0 +1,57 @@
+{
+  "name": "prodready",
+  "version": "1.0.0",
+  "description": "AI-powered SDLC hardening CLI tool that transforms vibe-coded Next.js/React prototypes into production-ready apps",
+  "main": "dist/index.js",
+  "bin": {
+    "prodready": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write src/**/*.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "cli",
+    "sdlc",
+    "hardening",
+    "security",
+    "testing",
+    "next.js",
+    "react",
+    "vibe-coding",
+    "anthropic",
+    "claude"
+  ],
+  "author": "PRODREADY Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "commander": "^11.1.0",
+    "yaml": "^2.3.4",
+    "semver": "^7.5.4",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/semver": "^7.5.6",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.0",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1"
+  }
+}
