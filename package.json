@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch",
-    "test": "vitest",
+    "test": "vitest run --passWithNoTests",
     "test:watch": "vitest --watch",
     "lint": "eslint src/**/*.ts",
     "format": "prettier --write src/**/*.ts",

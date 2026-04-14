@@ -1,5 +1,7 @@
 # PRODREADY
 
+[![PRODREADY CI](https://github.com/ai-craftsman404/PRODREADY/actions/workflows/prodready-ci.yml/badge.svg)](https://github.com/ai-craftsman404/PRODREADY/actions/workflows/prodready-ci.yml)
+
 > AI-powered SDLC hardening CLI tool that transforms vibe-coded Next.js/React prototypes into production-ready applications.
 
 ## Status: Phase 0 - Scaffolding Complete ✅
