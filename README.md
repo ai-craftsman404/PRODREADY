@@ -2,6 +2,10 @@
 
 [![PRODREADY CI](https://github.com/ai-craftsman404/PRODREADY/actions/workflows/prodready-ci.yml/badge.svg)](https://github.com/ai-craftsman404/PRODREADY/actions/workflows/prodready-ci.yml)
 
+PRODREADY turns prototype React/Next.js apps into production-ready builds with security, testing, and automated remediation.
+
+**Proof links:** [Release v0.1.0](https://github.com/ai-craftsman404/PRODREADY/releases/tag/v0.1.0) · [Demo/CLI Usage](#usage) · [Architecture](#architecture)
+
 > AI-powered SDLC hardening CLI tool that transforms vibe-coded Next.js/React prototypes into production-ready applications.
 
 ## Status: Phase 0 - Scaffolding Complete ✅
