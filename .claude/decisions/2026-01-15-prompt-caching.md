@@ -494,8 +494,8 @@ session_cache_performance:
 
 - [Anthropic Prompt Caching Documentation](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
 - [Anthropic Pricing](https://www.anthropic.com/pricing)
-- [PROMPT_CACHING_STRATEGY.md](../../PROMPT_CACHING_STRATEGY.md) — Full specification
-- [PRODREADY_ARCHITECTURE.md](../../PRODREADY_ARCHITECTURE.md) — Core architecture
+- [PROMPT_CACHING_STRATEGY.md](../../docs/PROMPT_CACHING_STRATEGY.md) — Full specification
+- [PRODREADY_ARCHITECTURE.md](../../docs/PRODREADY_ARCHITECTURE.md) — Core architecture
 - [Multi-Model Routing Strategy](./2026-01-15-multi-model-routing.md) — Complementary optimization
 
 ---

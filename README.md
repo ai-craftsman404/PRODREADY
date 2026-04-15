@@ -151,6 +151,10 @@ prodready cycle --all
 
 ---
 
+## Documentation
+
+Deeper implementation notes and strategy docs live in [`docs/`](docs/README.md).
+
 ## Architecture
 
 ### Multi-Model Routing
@@ -280,15 +284,16 @@ npm run format        # Prettier
 
 ## Architecture Decisions
 
-See [.claude/decisions/](c:\Users\georg\claude-code-project\AI-test-suite\.claude\decisions) for detailed ADRs:
+See [.claude/decisions/](.claude/decisions/) for detailed ADRs:
 
 - [2026-01-15-prompt-caching.md](.claude/decisions/2026-01-15-prompt-caching.md)
 
 See architecture documents:
-- [START_HERE_IMPLEMENTATION.md](START_HERE_IMPLEMENTATION.md)
-- [PRODREADY_ARCHITECTURE.md](PRODREADY_ARCHITECTURE.md)
-- [MULTI_MODEL_ROUTING_STRATEGY.md](MULTI_MODEL_ROUTING_STRATEGY.md)
-- [PROMPT_CACHING_STRATEGY.md](PROMPT_CACHING_STRATEGY.md)
+- [docs/README.md](docs/README.md)
+- [START_HERE_IMPLEMENTATION.md](docs/START_HERE_IMPLEMENTATION.md)
+- [PRODREADY_ARCHITECTURE.md](docs/PRODREADY_ARCHITECTURE.md)
+- [MULTI_MODEL_ROUTING_STRATEGY.md](docs/MULTI_MODEL_ROUTING_STRATEGY.md)
+- [PROMPT_CACHING_STRATEGY.md](docs/PROMPT_CACHING_STRATEGY.md)
 
 ---
 

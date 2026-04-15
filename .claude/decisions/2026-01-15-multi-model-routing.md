@@ -205,8 +205,8 @@ model_usage:
 
 - [Anthropic Model Pricing](https://www.anthropic.com/pricing)
 - [Claude API Documentation](https://docs.anthropic.com/en/api/messages)
-- [PRODREADY_ARCHITECTURE.md](../../PRODREADY_ARCHITECTURE.md#multi-model-routing-strategy)
-- [MULTI_MODEL_ROUTING_STRATEGY.md](../../MULTI_MODEL_ROUTING_STRATEGY.md)
+- [PRODREADY_ARCHITECTURE.md](../../docs/PRODREADY_ARCHITECTURE.md#multi-model-routing-strategy)
+- [MULTI_MODEL_ROUTING_STRATEGY.md](../../docs/MULTI_MODEL_ROUTING_STRATEGY.md)
 
 ---
 
